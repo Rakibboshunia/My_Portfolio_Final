@@ -10,7 +10,6 @@
 }
 
 /* Genral Styles */
-
 *,
 *::before,
 *::after {
@@ -226,7 +225,6 @@ img {
 /* End Genral Styles */
 
 /* Header */
-
 header {
   width: 100%;
   background-color: var(--light-three);
